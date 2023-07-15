@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: backstage-test-template
-  title: Node App with GitHub Actions
+  name: backstage-demo-template
+  title:Backstage demo template with GitHub Actions
   description: Create a Node service with GitHub Actions workflows
   tags:
     - recommended
